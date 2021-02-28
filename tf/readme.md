@@ -13,3 +13,6 @@ Googleドライブをマウントし、下記のコマンドでGoogleドライ�
 ```
 
 `create.py`で対象のmodelを読み込むと学習した結果を利用できます。
+
+
+参考：https://github.com/tensorflow/docs-l10n/blob/master/site/ja/tutorials/text/text_generation.ipynb
