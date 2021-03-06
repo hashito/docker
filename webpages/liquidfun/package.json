@@ -1,0 +1,13 @@
+{
+  "name": "webpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "http-server -o / -d ./public",
+    "dev2": "http-server -o / -d ./public/js/lfjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
